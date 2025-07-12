@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    border: 2px solid ;
+    border-color: black;
+    
+}
+
+h2{
+    color: red;
+    background-color: green;
+    border: 1px solid ;
+    border-color: black;
+}
+
+p{
+    color: purple;
+    background-color: lightgray;
+    border: 1px solid ;
+    border-color: rgb(22, 193, 36);
+}
+
+body{
+    color: black;
+    background-color: black;
+    
+}
+button{
+    color: white;
+    background-color: blue;
+    border: 1px solid ;
+    border-color: black;
+}
