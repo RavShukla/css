@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline overline  wavy;
+    font-weight: normal;
+    
+    
+    
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*
+ADDITIONAL INFO:
+
+96 px = 1 inch
+font-size: 2px;
+*/ 
+
+#one{
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: capitalize;
+    
+}
+
+#three{
+    font-size: 25px;
+    
+}
+
